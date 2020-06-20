@@ -1,0 +1,1 @@
+[null,{"name":"join","temp":"member","event-type":"6","_id":"VVyzt","actions":[{"info":"1","find":"join-logs","storage":"1","varName":"joinChannel","name":"Find Channel"},{"channel":"5","varName":"joinChannel","message":"${tempVars(\"member\")} joined the server, check our rules and have fun","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}]}]
